@@ -73,3 +73,4 @@ end
 
 gem 'devise'
 gem 'stripe'
+gem 'dotenv-rails', :groups => [:development, :test]
